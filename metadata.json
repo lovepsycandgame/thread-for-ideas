@@ -1,0 +1,5 @@
+{
+  "name": "Thread",
+  "description": "A minimal tool for capturing signals, daily reviews, and weaving threads of thought with visual graph connections.",
+  "requestFramePermissions": []
+}
