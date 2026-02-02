@@ -1,1 +1,33 @@
 AI wrote this
+
+=======================================================
+ London, UK — 7-Day Weather Forecast
+ Week of February 2 – 8, 2026
+=======================================================
+
+ Date        | High (°C) | Low (°C) | Conditions
+-------------|-----------|----------|---------------------------
+ Mon, Feb 2  |     9°    |    6°    | Cloudy with rain likely
+ Tue, Feb 3  |     8°    |    6°    | Overcast, chance of rain
+ Wed, Feb 4  |    11°    |    6°    | Mild, partly cloudy
+ Thu, Feb 5  |     8°    |    6°    | Cloudy, humid (87%)
+ Fri, Feb 6  |    10°    |    5°    | Partly cloudy
+ Sat, Feb 7  |     9°    |    6°    | Cloudy with rain possible
+ Sun, Feb 8  |     7°    |    3°    | Cold, clearing skies
+
+-------------------------------------------------------
+ Summary:
+ - Temperatures range from 3°C to 11°C
+ - Expect around 4 hours of sunshine per day
+ - Rain is likely on several days (avg 12 rainy days in Feb)
+ - Average monthly rainfall: 37mm
+ - Humidity: 79%–87%
+-------------------------------------------------------
+
+ Outlook: Slowly evolving weather patterns with low pressure
+ to the west/southwest and high pressure to the northeast.
+ Increased chance of cold conditions and wintry hazards
+ early in the month, transitioning to more unsettled
+ conditions later in February.
+
+ Sources: Met Office, AccuWeather, climate-data.org
